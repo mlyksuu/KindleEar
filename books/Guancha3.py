@@ -6,7 +6,7 @@ def getBook():
     return Guancha3
 
 class Guancha3(WebpageBook):
-    title                 = u'观察者网测试2'
+    title                 = u'观察者网测试3'
     description           = u'嘤嘤嘤'
     language              = 'zh-cn'
     feed_encoding         = "utf-8"
